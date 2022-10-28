@@ -1,2 +1,2 @@
 # santorini-airbnb-analysis
-Exploratory data analysis of Airbnb data for the island of Santorini
+Exploratory data analysis and ML predictions of Airbnb data for the island of Santorini.
